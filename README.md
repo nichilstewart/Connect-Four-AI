@@ -12,7 +12,7 @@ Select difficult (depth-level of Minimax algorithm) 1-5 in console before launch
 graphical game interface. 
 
 ### Visuals:
-<img src="https://raw.githubusercontent.com/nichilstewart/connect4-game-ai/main/imgs/ui.png" alt="Your image title" width="400"/>
+<img src="https://raw.githubusercontent.com/nichilstewart/connect4-game-ai/main/imgs/ui.png" alt="Your image title" width="450"/>
 
 <img src="https://raw.githubusercontent.com/nichilstewart/connect4-game-ai/main/imgs/game1.png" alt="Your image title" width="450"/>
 
