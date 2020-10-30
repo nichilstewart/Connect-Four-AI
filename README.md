@@ -14,13 +14,9 @@ graphical game interface.
 ### Visuals:
 <img src="https://raw.githubusercontent.com/nichilstewart/connect4-game-ai/main/imgs/ui.png" alt="Your image title" width="400"/>
 
+<img src="https://raw.githubusercontent.com/nichilstewart/connect4-game-ai/main/imgs/game1.png" alt="Your image title" width="400"/>
 
-![UI](https://raw.githubusercontent.com/nichilstewart/connect4-game-ai/main/imgs/ui.png)
-
-![Game1](https://raw.githubusercontent.com/nichilstewart/connect4-game-ai/main/imgs/game1.png)
-
-![Game2](https://raw.githubusercontent.com/nichilstewart/connect4-game-ai/main/imgs/game2.png)
-
+<img src="https://raw.githubusercontent.com/nichilstewart/connect4-game-ai/main/imgs/game2.png" alt="Your image title" width="400"/>
  
 ### AI:
 AI is developed using Minimax algorithm ... (to be continued)
