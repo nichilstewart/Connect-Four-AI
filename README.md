@@ -3,7 +3,7 @@
 
 ### Overview:
 Connect 4 game built in Python using Pygame graphics library. Game AI developed using 
-Minimax algorithm and further optimized depth-traversal time using alpha-beta pruning. 
+Minimax algorithm with further optimized depth-traversal time using alpha-beta pruning. 
 
 ### Files:
 To run: cd to game directory and type `python3 connect4_AI.py` in terminal.
