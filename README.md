@@ -1,4 +1,4 @@
-## Python Connect 4 AI 
+## Python Connect Four AI 
 #### Nichil Stewart
 
 ### Overview:
