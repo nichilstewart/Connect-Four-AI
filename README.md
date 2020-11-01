@@ -19,5 +19,9 @@ graphical game interface.
 <img src="https://raw.githubusercontent.com/nichilstewart/connect4-game-ai/main/imgs/game2.png" alt="Your image title" width="450"/>
  
 ### AI:
-AI is developed using Minimax algorithm ... (to be continued)
+AI is developed using the Minimax algorithm with a custom heuristic scoring model. 
+The game-tree traversal process if further optimized using Alpha-beta bruning to 
+only select the best paths in evaluating the best move. Moves are scored using 
+greatest sequence of adjacent pieces, even-odd positioning, and prioritizing the 
+lower rows and center column positions.
 
